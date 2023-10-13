@@ -1,4 +1,4 @@
-g++ *cpp
+g++ *.cpp
 ./a.out
 
 
