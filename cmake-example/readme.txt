@@ -1,3 +1,8 @@
+apt update
+apt install g++ -y
+
+
+
 cmake .
 make
 ./helloworld
