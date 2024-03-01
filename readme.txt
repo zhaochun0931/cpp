@@ -14,3 +14,12 @@ $ ./a.out
 hello world
 $
 
+
+
+
+
+
+
+gcc xx.c
+gcc xx.c -o xx
+
